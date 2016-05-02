@@ -94,7 +94,7 @@ Copyright 2011-2015 ARToolworks, Inc.
 
 [website]: http://www.artoolkit.org
 [documentation]: http://artoolkit.org/documentation/
-[forums]: http://artoolkit.org/community/
+[forums]: http://artoolkit.org/community/forums/viewforum.php?f=28
 [pull]: https://github.com/artoolkit/arunity5/pulls
 [android]: http://artoolkit.org/documentation/doku.php?id=4_Android:android_about
 [ios]: http://artoolkit.org/documentation/doku.php?id=5_iOS:ios_about
